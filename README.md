@@ -1,8 +1,17 @@
 ## Hello....
-- 💾 I’m reimolaev (or char16_t or Sek13H....)
-- 💿 I’m reimolaev (or char16_t or Sek13H....)
-  
+```
+       .__                 ____  ________     __   
+  ____ |  |__ _____ ______/_   |/  _____/   _/  |_ 
+_/ ___\|  |  \\__  \\_  __ \   /   __  \    \   __\
+\  \___|   Y  \/ __ \|  | \/   \  |__\  \    |  |  
+ \___  >___|  (____  /__|  |___|\_____  /____|__|  
+     \/     \/     \/                 \/_____/     
+```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=100&color=83137B&width=435&lines=reimolaev;char16_t;Love+Computer!)](https://git.io/typing-svg)
+- 💾 I’m reimolaev (or char16_t or Sek13H....)
+- 💿 I’m interested in NASM, C++, C, C#, Kernel, MBR, Cybersecurity, OSDev.
+- ⌨️ I’m currently learning C++, C, NASM.
+- 🖱️ I love x86.
 <!--
 **Sek13H/Sek13H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
